@@ -1,7 +1,4 @@
-
-
-<?php
-
+<? php
 $hashtag="москва";
 print_r(getPublicHashtag($hashtag));
 function getPublicHashtag($hashtag) {
